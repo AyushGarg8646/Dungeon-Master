@@ -134,12 +134,10 @@ python main.py
 ## 👥 *Team & Credits*
 *TeamName:* Barbarians
 *Developer:* Dhairya Goyal & Ayush Garg 
-*Mentorship:* INTER IIT Bootcamp  
+
 *Project Theme:* Dynamic Memory for Persistent Storytelling  
-*Model:* LLaMA-3.3-70B via Groq API  
+
 
 ---
 
-## 🧡 *In One Line*
 
-> “An AI Dungeon Master that remembers your past, reacts to your choices, and builds a living world that grows with every turn.” 🌍✨
