@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1_I3ixucIYpfBZQ2dR9ngO-tBfVqnmYI6?usp=sha
 
 ---
 
-## 🎯 *Project Overview*
+##🎯 *Project Overview*
 
 Text-based storytelling in tabletop role-playing games (TTRPGs) thrives on one key figure — the *Dungeon Master (DM)* — who maintains world continuity, reacts dynamically to player choices, and keeps every session coherent and alive.
 
